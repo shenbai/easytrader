@@ -91,7 +91,8 @@ setup(
             'requests',
             'logbook',
             'anyjson',
-            'six'
+            'six',
+	    'numpy',
         ],
         classifiers=['Development Status :: 4 - Beta',
                      'Programming Language :: Python :: 2.6',
